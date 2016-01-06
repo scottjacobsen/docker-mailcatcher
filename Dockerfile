@@ -1,4 +1,4 @@
-FROM ruby:2.2
+FROM ruby:2.3
 MAINTAINER Scott Jacobsen <jacobsenscott@yahoo.com>
 
 ENV TINI_VERSION v0.8.4
